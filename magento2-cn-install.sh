@@ -52,7 +52,7 @@ else
 echo ''
 	#步骤二 是否添加第三方源 php mariadb redis varnish nginx
 	echo '步骤二、判断是否添加第三方源-待完善'
-	$sudo add-apt-repository ppa:ondrej/php
+	#sudo add-apt-repository ppa:ondrej/php
 echo ''
 	#步骤三 安装过程
 	echo "步骤三、环境部署安装"
